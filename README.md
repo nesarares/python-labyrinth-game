@@ -1,0 +1,1 @@
+# Python Labyrinth Game - Project for VVSS PyUnit tutorial
