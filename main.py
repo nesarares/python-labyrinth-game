@@ -2,7 +2,7 @@ from game import *
 import msvcrt
 import sys
 
-game = Game("data/board2.in")
+game = Game("data/board1.in")
 
 game.printBoard()
 
