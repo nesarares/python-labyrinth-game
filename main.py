@@ -14,10 +14,10 @@ while not status:
 		if key.lower() == "w":
 			status = game.move(Direction.UP)
 			print("=============UP=============")
-		elif key.lower()  == "a":
+		elif key.lower() == "a":
 			status = game.move(Direction.LEFT)
 			print("============LEFT============")
-		elif key.lower()== "s":
+		elif key.lower() == "s":
 			status = game.move(Direction.DOWN)
 			print("============DOWN============")
 		elif key.lower() == "d":
