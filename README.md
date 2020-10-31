@@ -1,1 +1,3 @@
-# Python Labyrinth Game - Project for VVSS PyUnit tutorial
+# Python Labyrinth Game
+
+University project - Verification and Validation for Software Systems - PyUnit tutorial
